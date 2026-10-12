@@ -1,0 +1,8 @@
+{
+    "Host":"0.0.0.0",
+    "Port":8443,
+    "CertFile":"etc/server.crt",
+    "KeyFile":"etc/server.key",
+    "Templates":"templates",
+    "Static":"static"
+}
